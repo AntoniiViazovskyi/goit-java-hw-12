@@ -25,3 +25,7 @@ P
  src/main/java/com/goit/Main.java,f\0\f05b8007c91bdc3a42c8c13d95a572e0586b5a97
 \
 ,src/test/java/dao/ClientCrudServiceTest.java,b\b\bb087b2c556a0143160bb3f310ca06600b4dbb6f
+\
+,src/test/java/dao/PlanetCrudServiceTest.java,9\5\950e8d61feb8327fd97cc0359ba78a8fd1932553
+Å
+Q.idea/sonarlint/securityhotspotstore/9/5/950e8d61feb8327fd97cc0359ba78a8fd1932553,6\b\6b7c97f29be8a2c68a3703a91e17686501caced4
